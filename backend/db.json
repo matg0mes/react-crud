@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Matheus",
+      "email": "hotmus8500@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "DIego",
+      "email": "fgomes.matheus@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Matheus",
+      "email": "m_a_theus_gomes@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "DIego",
+      "email": "hotmus8500@gmail.com",
+      "id": 8
+    }
+  ]
+}
