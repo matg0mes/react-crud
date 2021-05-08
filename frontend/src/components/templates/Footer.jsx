@@ -7,7 +7,7 @@ export default props => (
       Desenvolvido com <i className="fa fa-heart text-danger"></i> por
       <strong>
         {" "}
-        Cod<span className="text-danger">3</span>r
+        Fox<span className="text-danger">Greedy</span>
       </strong>
     </span>
   </footer>
