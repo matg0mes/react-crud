@@ -30,8 +30,4 @@ Uma aplicação que faz um CRUD onde é possível deletar informações. Não fo
 
 <hr />
 
-<p align="center">
-  <a href="https://github.com/FoxGreedy">
-    <img src="https://i.imgur.com/RadC5Gt.png" width="160">
-  </a>
-</p>
+<p  align="right">Made with ❤️ by <a href="https://github.com/matg0mes">matg0mes</a>.</p>
